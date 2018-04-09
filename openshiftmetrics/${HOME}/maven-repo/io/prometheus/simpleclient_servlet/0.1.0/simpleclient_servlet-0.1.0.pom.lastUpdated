@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 28 00:14:55 IST 2018
+@default-foundation\ releases-http\://illin3301\:28080/nexus/content/repositories/amd-core-fnd-Releases/.lastUpdated=1522176286370
+http\://illin3301\:28080/nexus/content/repositories/amd-core-fnd-Releases/.error=Could not transfer artifact io.prometheus\:simpleclient_servlet\:pom\:0.1.0 from/to foundation releases (http\://illin3301\:28080/nexus/content/repositories/amd-core-fnd-Releases)\: illin3301
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+24d9d9abae88e36da67b884af910de75481e2f6f@default-PCI-http\://illin3301\:28080/nexus/content/groups/public/.lastUpdated=1522176286355
+http\://illin3301\:28080/nexus/content/groups/internal-foundation-public/.error=Could not transfer artifact io.prometheus\:simpleclient_servlet\:pom\:0.1.0 from/to foundation-internal-releases (http\://illin3301\:28080/nexus/content/groups/internal-foundation-public)\: illin3301
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1522176295802
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1522176287766
+@default-foundation-internal-releases-http\://illin3301\:28080/nexus/content/groups/internal-foundation-public/.lastUpdated=1522176286385
+https\://repo.spring.io/milestone/.lastUpdated=1522176287260
+http\://illin3301\:28080/nexus/content/groups/public/.error=Could not transfer artifact io.prometheus\:simpleclient_servlet\:pom\:0.1.0 from/to PCI (http\://illin3301\:28080/nexus/content/groups/public)\: illin3301
+https\://repo.spring.io/milestone/.error=
